@@ -1,0 +1,12 @@
+[colors]
+background = #00000000
+foreground = {{foreground}}
+mod-bg = #EE{{color0 | strip}}
+apps-fg = {{color4 | lighten(0.4)}}
+spotify-fg = {{color10 | lighten(0.4)}}
+workspace-bg = {{color0}}
+ws-disabled = {{color10 | lighten(0.2)}}
+alert = #A54242
+alpha = #00000000
+spotify-icon = #66cc99
+cpu-icon = #F0C674
